@@ -1,0 +1,5 @@
+C:\Users\harun\Projects\SupportShortcuts.exe
+C:\Users\harun\Projects\SupportShortcuts.dll
+C:\Users\harun\Projects\SupportShortcuts.deps.json
+C:\Users\harun\Projects\SupportShortcuts.runtimeconfig.json
+C:\Users\harun\Projects\SupportShortcuts.pdb

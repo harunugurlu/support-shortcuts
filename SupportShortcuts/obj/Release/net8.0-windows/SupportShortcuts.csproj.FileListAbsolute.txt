@@ -1,0 +1,16 @@
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\bin\Release\net8.0-windows\SupportShortcuts.exe
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\bin\Release\net8.0-windows\SupportShortcuts.deps.json
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\bin\Release\net8.0-windows\SupportShortcuts.runtimeconfig.json
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\bin\Release\net8.0-windows\SupportShortcuts.dll
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\bin\Release\net8.0-windows\SupportShortcuts.pdb
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.Form1.resources
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.csproj.GenerateResource.cache
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.AssemblyInfoInputs.cache
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.AssemblyInfo.cs
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.csproj.CoreCompileInputs.cache
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.dll
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\refint\SupportShortcuts.dll
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.pdb
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\SupportShortcuts.genruntimeconfig.cache
+C:\Users\harun\Projects\SupportShortcuts\SupportShortcuts\obj\Release\net8.0-windows\ref\SupportShortcuts.dll
